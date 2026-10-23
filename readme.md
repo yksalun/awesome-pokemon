@@ -125,7 +125,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 - [iPokeGo](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
 
-- #### Tips & Tricks
+#### Tips & Tricks
 - [Minior Field Guide](https://miniorguide.com) - Independent Pokémon GO reference for Minior catch windows, core colors, shiny notes, moves, and meteor showers.
 - [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
 - [Imore](http://www.imore.com/Pokemon-go-tips-tricks-cheats) - Pokémon GO: 21 tips, tricks, and cheats to be the best trainer in the world.
